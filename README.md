@@ -11,17 +11,17 @@ Click on “Create an account”.
 Verify that the account is created successfully.
 2)https://learntekin-965be.web.app/login
    Registration and Login
-3)
-1. Go to https://www.tripadvisor.in/
-2. Once page is loaded, search for “Club Mahindra”.
-3. Click on the first result that appears in the list.
-4. Click on Write a Review.
-5. On “Your overall rating” section, hover over the stars and click on the fifth star. Your
+   
+3)Go to https://www.tripadvisor.in/
+Once page is loaded, search for “Club Mahindra”.
+Click on the first result that appears in the list.
+Click on Write a Review.
+On “Your overall rating” section, hover over the stars and click on the fifth star. Your
 code should actually do the hover and make sure the stars inside get lit up when you
 hover over them, then click on the fifth star.
-6. Write some random text in “Title of your review” and “Your review” section.
-7. Check if “Hotel Ratings” section is available, if available repeat step 5.
-8. Select checkbox in ‘Submit your review’ section.
+Write some random text in “Title of your review” and “Your review” section.
+Check if “Hotel Ratings” section is available, if available repeat step 
+Select checkbox in ‘Submit your review’ section.
 
 4)
 Open a Browser (write the generic code such that by changing the parameter browser can be changed.)
