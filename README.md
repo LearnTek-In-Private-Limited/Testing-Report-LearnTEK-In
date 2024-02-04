@@ -23,8 +23,7 @@ Write some random text in “Title of your review” and “Your review” secti
 Check if “Hotel Ratings” section is available, if available repeat step 
 Select checkbox in ‘Submit your review’ section.
 
-4)
-Open a Browser (write the generic code such that by changing the parameter browser can be changed.)
+4)Open a Browser (write the generic code such that by changing the parameter browser can be changed.)
 Navigate to https://flipkart.com website.
 Write a method to find the count (number of) links on the homepage of Flipkart.
 Write another method to print link text and URLs of all the links on the page of Flipkart.
